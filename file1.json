@@ -8,10 +8,24 @@
   },
   {
     "id1":2,
-    "status": "Clean".
+    "status": "clean".
     "id2":"100",
     "date":"05/23/2025",
     "error":"Error msg2"
+  },
+  {
+    "id1":3,
+    "status": "suspect".
+    "id2":"1000",
+    "date":"05/24/2025",
+    "error":"Error msg3"
+  },
+  {
+    "id1":4,
+    "status": "error".
+    "id2":"10000",
+    "date":"05/25/2025",
+    "error":"Error msg4"
   }
 ] 
   
