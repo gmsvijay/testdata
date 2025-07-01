@@ -9,7 +9,7 @@
     "HFP":10,
     "clean": 50,
     "suspect": 30,
-    "error": "TEst error msg1"
+    "error": "Test error msg1"
   },
   {
     "date":"05/23/2025",
@@ -21,6 +21,30 @@
     "HFP":10,
     "clean": 50,
     "suspect": 30,
-    "error": "TEst error msg2"
+    "error": "Test error msg2"
+  },
+  {
+    "date":"05/24/2025",
+    "startTime": "23:10 hrs",
+    "endTime": "23:15 hrs",
+    "recdRecords": 100,
+    "successRecords": 90,
+    "errorRecords":10,
+    "HFP":10,
+    "clean": 50,
+    "suspect": 30,
+    "error": "Test error msg3"
+  },
+  {
+    "date":"05/25/2025",
+    "startTime": "23:10 hrs",
+    "endTime": "23:15 hrs",
+    "recdRecords": 100,
+    "successRecords": 90,
+    "errorRecords":10,
+    "HFP":10,
+    "clean": 50,
+    "suspect": 30,
+    "error": "Test error msg4"
   }
 ]
