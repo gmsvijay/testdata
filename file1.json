@@ -1,28 +1,28 @@
 [ 
   {
     "id1":1,
-    "status": "HFP".
+    "status": "HFP",
     "id2":"10",
     "date":"05/22/2025",
     "error":"Error msg1"
   },
   {
     "id1":2,
-    "status": "clean".
+    "status": "clean",
     "id2":"100",
     "date":"05/23/2025",
     "error":"Error msg2"
   },
   {
     "id1":3,
-    "status": "suspect".
+    "status": "suspect",
     "id2":"1000",
     "date":"05/24/2025",
     "error":"Error msg3"
   },
   {
     "id1":4,
-    "status": "error".
+    "status": "error",
     "id2":"10000",
     "date":"05/25/2025",
     "error":"Error msg4"
