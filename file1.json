@@ -37,7 +37,7 @@
   {
     "id1":6,
     "status": "HFP",
-    "id2":"10",
+    "id2":"345",
     "date":"05/23/2025",
     "error":"Error msg1"
   },
@@ -60,6 +60,20 @@
     "status": "error",
     "id2":"10000",
     "date":"05/26/2025",
+    "error":"Error msg4"
+  },
+  {
+    "id1":10,
+    "status": "suspect",
+    "id2":"234",
+    "date":"05/23/2025",
+    "error":"Error msg3"
+  },
+  {
+    "id1":11,
+    "status": "error",
+    "id2":"123",
+    "date":"05/23/2025",
     "error":"Error msg4"
   }
 ] 
