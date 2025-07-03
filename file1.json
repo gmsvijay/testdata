@@ -2,77 +2,77 @@
   {
     "id1":1,
     "status": "HFP",
-    "id2":"10",
+    "applicationId":"10",
     "date":"05/22/2025",
     "error":"Error msg1"
   },
   {
     "id1":2,
     "status": "clean",
-    "id2":"100",
+    "applicationId":"100",
     "date":"05/23/2025",
     "error":"Error msg2"
   },
   {
     "id1":3,
     "status": "suspect",
-    "id2":"1000",
+    "applicationId":"1000",
     "date":"05/24/2025",
     "error":"Error msg3"
   },
   {
     "id1":4,
     "status": "error",
-    "id2":"10000",
+    "applicationId":"10000",
     "date":"05/25/2025",
     "error":"Error msg4"
   },
   {
     "id1":5,
     "status": "HFP",
-    "id2":"10",
+    "applicationId":"10",
     "date":"05/22/2025",
     "error":"Error msg1"
   },
   {
     "id1":6,
     "status": "HFP",
-    "id2":"345",
+    "applicationId":"345",
     "date":"05/23/2025",
     "error":"Error msg1"
   },
   {
     "id1":7,
     "status": "clean",
-    "id2":"100",
+    "applicationId":"100",
     "date":"05/24/2025",
     "error":"Error msg2"
   },
   {
     "id1":8,
     "status": "suspect",
-    "id2":"1000",
+    "applicationId":"1000",
     "date":"05/25/2025",
     "error":"Error msg3"
   },
   {
     "id1":9,
     "status": "error",
-    "id2":"10000",
+    "applicationId":"10000",
     "date":"05/26/2025",
     "error":"Error msg4"
   },
   {
     "id1":10,
     "status": "suspect",
-    "id2":"234",
+    "applicationId":"234",
     "date":"05/23/2025",
     "error":"Error msg3"
   },
   {
     "id1":11,
     "status": "error",
-    "id2":"123",
+    "applicationId":"123",
     "date":"05/23/2025",
     "error":"Error msg4"
   }
